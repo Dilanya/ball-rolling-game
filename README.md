@@ -11,9 +11,5 @@ This is a simple game that created using unity. In the game,
 
 
 
-
-
-
-Uploading Final assignment 2023-03-31 21-05-05.mp4…
-
+https://user-images.githubusercontent.com/83948976/229172074-82bc4d78-28ff-489d-b47c-a2515f888dce.mp4
 
