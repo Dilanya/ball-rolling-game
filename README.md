@@ -6,7 +6,7 @@ This is a simple game that created using unity. In the game,
 - The player can win by colliding the ball with other balls.
 - Colliding Detection use for the player win.
 - There are Levels in this game.
-- User can earn scores. 
+- User can earn score
 
 
 
@@ -14,5 +14,6 @@ This is a simple game that created using unity. In the game,
 
 
 
+Uploading Final assignment 2023-03-31 21-05-05.mp4…
 
-
+![IMG_20230309_131028](https://user-images.githubusercontent.com/83948976/229171040-94fdfa87-abff-48f0-b038-2cc3416967ee.jpg)
